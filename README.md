@@ -1,4 +1,7 @@
 # DMS_primer_creator
+
+PYTHON 2.X COMPATIBLE
+
 Design primers for deep mutational scanning (Fowler 2014)
 
 From an input gene sequence (containing at least 30 bp of flanking DNA) creates primers to be used for library construction for deep mutational scanning (DMS) experiments.  Primers can be used in conjuction with PALS mutagenesis (Kitzman 2015) or one-pot saturation mutagenesus (Wrenbeck 2016) library construction protocols.  Both protocols involve using primers which match input sequence perfectly, aside from one codon change.  
